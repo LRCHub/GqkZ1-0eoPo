@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "求世主",
   "base_artist": "CLAN QUEEN",
-  "createdAt": "2025-12-16T13:19:06.661026Z",
+  "createdAt": "2026-03-23T15:15:04.162715Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "CLAN QUEEN",
       "has_synced": false,
       "path": "select/pl_01_求世主_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "求世主",
+      "artist": "CLAN QUEEN",
+      "has_synced": true,
+      "path": "select/localdb_01_求世主_CLAN_QUEEN.lrc",
+      "repo_name": "GqkZ1-0eoPo"
     }
   ]
 }
